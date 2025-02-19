@@ -1,5 +1,5 @@
 function redirectToLogin() {
-    window.location.href = "student-portal/pages/login.html";
+    window.location.href = "pages/login.html";
   }
   
   function redirectToSignup() {

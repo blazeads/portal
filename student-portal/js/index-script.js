@@ -1,9 +1,9 @@
 function redirectToLogin() {
-    window.location.href = "pages/login.html";
+    window.location.href = "student-portal/pages/login.html";
   }
   
   function redirectToSignup() {
-    window.location.href = "pages/sign-up.html"; 
+    window.location.href = "student-portal/pages/sign-up.html"; 
   }
   
   function redirectToSupport() {
